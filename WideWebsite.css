@@ -1,0 +1,111 @@
+body{
+    background-color: hotpink;
+    color:white;
+    font-family:cursive;
+    background-image: url(https://media0.giphy.com/media/COYggJB0KnADm/200.gif);
+}
+.parentContainer{
+    border:solid white;
+    height:32vh;
+    width:100%;
+    display: flex; 
+}
+.luigi{
+    width:250px;
+    height:100%;
+    border:solid white;
+    display: flex;
+}
+
+.Directions{ 
+    display: flex;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+
+.LastOneYall{
+    display: flex;
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+
+button{
+    display: flex;
+    font-size: xx-large;
+    position: relative;
+    font-display: top;
+    background-color: gold;
+    border-radius: 5px;
+    color: green;
+}
+
+.luigiText{
+    font-size:65px;
+}
+.textBox{
+    display:flex;
+    padding:15px;
+}
+.coin{
+    height:100px;
+    width:auto;
+    border-radius:50%;
+    margin: 15px;
+    justify-content: flex-end;
+}
+.coin:hover{
+    height:90px;
+    width:90px;
+    border-radius:50%;
+    margin:75px;
+    border:solid gold;
+    border-width:12px;
+}
+
+.morn{
+    width:80%;
+    display: none;
+
+}
+
+.noon{
+    display: none;
+    width: 40%; 
+
+}
+
+.AnnPhotos{
+    display: none;
+}
+
+.midContainer{
+    display: none;
+}
+
+.night{ 
+    width:270px;
+    height:100%;
+    border:solid white;
+    display: flex;
+}
+
+h2{ 
+    display: none;
+}
+
+.ntxt{
+    display: none;
+}
+.ngtxt{
+    display: block;
+    padding: 12px;
+    text-align: center;
+    font-size: 65px;
+}
+.ngtxt{
+    display: none;
+}

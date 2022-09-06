@@ -1,0 +1,150 @@
+body{
+    background-color: purple;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: none;
+}
+.parentContainer{
+    border:solid gold;
+    height:32vh;
+    width:100%;
+}
+
+.Directions{ 
+    display: flex;
+    color: black;
+    font-style: italic;
+}
+
+h2{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+
+}
+
+.TheLast{
+    display: none;
+}
+
+.TheLast1{
+    display: none;
+}
+button{
+    display: flex;
+    font-size: xx-large;
+    position: relative;
+    font-display: top;
+    background-color: gold;
+    border-radius: 5px;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+
+
+.btn1{ 
+    display: none;
+}
+
+.btn2{ 
+    display: flex;
+}
+.btn3{
+    display: none;
+}
+
+.image__title{
+    font-size: 1.25em;
+    margin-top: 0.25;
+    display: none;
+}
+
+.image_description{
+    display: none;
+}
+
+.midContainer{  
+    height: 42vh;
+    margin-top: 20;
+    display: none;
+
+}
+
+.LastOneYall{
+    display: none;
+}
+
+.Ann_Title{
+    color: white;
+}
+
+.AnnPhotoDescription{
+    color: white;
+}
+.luigi{
+    font-size:42px;
+    margin:50px;
+}
+.luigi{
+    width:250px;
+    height:100%;
+    border:solid white;
+    display: flex;
+    position: relative;
+    top: -50px;
+
+}
+
+.textBox{
+    display:flex;
+    padding:15px;
+}
+.coin{
+    display:none;
+    height:90pcd Dx;
+    width:90px;
+    border-radius:50%;
+}
+
+.morn{
+    width:80%;
+    display: none;
+
+}
+
+/* Ann Photos */
+
+.AnnPhotos{
+   position: relative; 
+   width: 400px;
+   display: flex;
+   display: block;
+}
+.noon{
+    width:270px;
+    height:100%;
+    border:solid white;
+    display: block;
+}
+
+.night{ 
+    display: none;
+    padding: 12px;
+    text-align: center;
+    font-size: 65px;
+}
+
+.ntxt{
+    display: none;
+}
+.ngtxt{
+    display: block;
+    padding: 12px;
+    text-align: center;
+    font-size: 65px;
+}
+.ngtxt{
+    display: none;
+}
+

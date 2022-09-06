@@ -1,0 +1,148 @@
+body{
+    background-color:black;
+    color: white;
+    background-image: none;
+}
+
+h1{
+    color: hotpink;
+}
+
+                                /* BUTTONS */
+
+button{
+    display: flex;
+    border: hotpink;
+    font-size: xx-large;
+    position: relative;
+    font-display: top;
+    background-color: gold;
+    border-radius: 5px;
+}
+
+.btn1{ 
+    display: flex;
+}
+
+.btn2{ 
+    display: none;
+}
+.btn3{
+    display: none;
+}
+
+
+                             /* <!-- Steve Harvey Class --> */
+.parentContainer{
+    border:hotpink;
+    padding:12px;
+    height:32vh;
+    width:100%;
+    padding-left:25%;
+    position: relative;
+    width: 400px;
+
+}
+
+                              /* <!-- Steve Harvey Gif --> */
+.luigi{
+    width:250px;
+    height:100%;
+    border:solid white;
+    display: flex;
+    position: relative;
+    top: -75px;
+
+}
+
+.luigitext{
+    font-size:42px;
+}
+
+                            /* <!-- All Slide Directions --> */
+
+.Directions{ 
+    display: flex;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+                                /* <!-- First Container  --> */
+.midContainer{ 
+    position: relative;
+    width: 80%;
+    display: block;
+}
+
+.image__title{
+    display: flex;
+    color: white;
+    font-style: italic;
+}
+
+.image_description{
+    display: flex;
+    color: white;
+    font-style: italic;
+}
+
+
+h2{
+    display: none;
+}
+.textBox{
+    display:none;
+    padding:15px;
+}
+.coin{
+    height:90px;
+    width:90px;
+    border-radius:50%;
+}
+
+.morn{ 
+    display: flex;
+    width: 100%;
+    border:solid white;
+    display: table-column;
+
+}
+
+.AnnPhotos{ 
+    display: none;
+    flex-direction: column;
+}
+
+
+/* 
+/* /* .midContainer:hover{ 
+    /* display: none; 
+    visibility: hidden;
+    background-color: yellow; */ */
+
+.noon{
+display: flex;
+}
+
+.night{ 
+    display: none;
+    padding: 12px;
+    text-align: center;
+    font-size: 65px;
+
+}
+
+.ntxt{
+    display: none;
+}
+.ngtxt{
+    display: block;
+    padding: 12px;
+    text-align: center;
+    font-size: 65px;
+}
+.ngtxt{
+    display: none;
+}
+
